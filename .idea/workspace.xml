@@ -15,6 +15,11 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ChatApplication.executor": "Run"
+  }
+}]]></component>
   <component name="TaskManager">
     <servers />
   </component>
